@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-lifecycle-http-crud/static/css/main.032806a8.chunk.css",
+    "main.js": "/ra-lifecycle-http-crud/static/js/main.bde4c8fc.chunk.js",
+    "main.js.map": "/ra-lifecycle-http-crud/static/js/main.bde4c8fc.chunk.js.map",
+    "runtime-main.js": "/ra-lifecycle-http-crud/static/js/runtime-main.e89e964c.js",
+    "runtime-main.js.map": "/ra-lifecycle-http-crud/static/js/runtime-main.e89e964c.js.map",
+    "static/js/2.f74219e0.chunk.js": "/ra-lifecycle-http-crud/static/js/2.f74219e0.chunk.js",
+    "static/js/2.f74219e0.chunk.js.map": "/ra-lifecycle-http-crud/static/js/2.f74219e0.chunk.js.map",
+    "static/js/3.13e1c605.chunk.js": "/ra-lifecycle-http-crud/static/js/3.13e1c605.chunk.js",
+    "static/js/3.13e1c605.chunk.js.map": "/ra-lifecycle-http-crud/static/js/3.13e1c605.chunk.js.map",
+    "index.html": "/ra-lifecycle-http-crud/index.html",
+    "static/css/main.032806a8.chunk.css.map": "/ra-lifecycle-http-crud/static/css/main.032806a8.chunk.css.map",
+    "static/js/2.f74219e0.chunk.js.LICENSE.txt": "/ra-lifecycle-http-crud/static/js/2.f74219e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e89e964c.js",
+    "static/js/2.f74219e0.chunk.js",
+    "static/css/main.032806a8.chunk.css",
+    "static/js/main.bde4c8fc.chunk.js"
+  ]
+}
